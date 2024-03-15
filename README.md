@@ -6,8 +6,8 @@
 
 ## Education
 
-- **Huazhong University of Science and Technology**, Bachelor of Computer Science and Technology (Excellence Engineer Class), September 2021 - July 2025
-- **University of California, Berkeley**, Computer Science and Technology, Term Exchange, February 2024 - May 2024
+- **Huazhong University of Science and Technology**,BSCS, September 2021 - July 2025
+- **University of California, Berkeley**, Visiting Student, February 2024 - May 2024
 
 <!--
 **nivag8899/nivag8899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,4 +25,5 @@ Here are some ideas to get you started:
 -->
 
 ![Xi's GitHub stats](https://github-readme-stats.vercel.app/api?username=nivag8899&show_icons=true&theme=radical&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nivag8899&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nivag8899)](https://github.com/anuraghazra/github-readme-stats)
