@@ -1,4 +1,13 @@
-### Hi there 👋
+# Xi Gao（高僖）
+
+- Huazhong University of Science and Technology
+- Email: isgavin.gao@gmail.com
+- Tel: +86-185-1847-2108
+
+## Education
+
+- **Huazhong University of Science and Technology**, Bachelor of Computer Science and Technology (Excellence Engineer Class), September 2021 - July 2025
+- **University of California, Berkeley**, Computer Science and Technology, Term Exchange, February 2024 - May 2024
 
 <!--
 **nivag8899/nivag8899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
