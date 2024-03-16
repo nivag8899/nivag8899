@@ -24,5 +24,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Xi's GitHub stats](https://github-readme-stats.vercel.app/api?username=nivag8899&show_icons=true&theme=radical&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nivag8899)](https://github.com/anuraghazra/github-readme-stats)
