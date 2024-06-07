@@ -10,7 +10,7 @@
 - **University of California, Berkeley**, Visiting Student, February 2024 - May 2024
 
 ## Experience
-- **Xiaomi Corporation**, Back End Developer, June 2024 - Present
+- **Xiaomi Corporation**, Backend Development Intern, June 2024 - Present
 
 <!--
 **nivag8899/nivag8899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
