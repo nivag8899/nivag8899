@@ -6,8 +6,11 @@
 
 ## Education
 
-- **Huazhong University of Science and Technology**,BSCS, September 2021 - July 2025
+- **Huazhong University of Science and Technology**,B.Eng CS, September 2021 - July 2025
 - **University of California, Berkeley**, Visiting Student, February 2024 - May 2024
+
+## Experience
+- **Xiaomi Corporation**, Internship, June 2024 - present
 
 <!--
 **nivag8899/nivag8899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
