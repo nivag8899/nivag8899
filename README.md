@@ -6,11 +6,11 @@
 
 ## Education
 
-- **Huazhong University of Science and Technology**,B.Eng CS, September 2021 - July 2025
+- **Huazhong University of Science and Technology**, B.Eng CS, September 2021 - July 2025
 - **University of California, Berkeley**, Visiting Student, February 2024 - May 2024
 
 ## Experience
-- **Xiaomi Corporation**, Internship, June 2024 - present
+- **Xiaomi Corporation**, Back End Developer, June 2024 - Present
 
 <!--
 **nivag8899/nivag8899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,8 +25,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
 
 ![Xi's GitHub stats](https://github-readme-stats.vercel.app/api?username=nivag8899&show_icons=true&theme=radical&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nivag8899)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
