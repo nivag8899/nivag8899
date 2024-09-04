@@ -11,7 +11,7 @@
 
 ## Experience
 - **Xiaomi Corporation**, Backend Development Intern, June 2024 - August 2024
-- **Wuhan National Laboratory for Optoelectronics (WNLO)**, Research Assitant, September 2024 - Present
+- **Wuhan National Laboratory for Optoelectronics (WNLO)**, Research Assistant, September 2024 - Present
 
 <!--
 **nivag8899/nivag8899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
