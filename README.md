@@ -9,6 +9,9 @@
 - **Huazhong University of Science and Technology**, B.Eng CS, September 2021 - July 2025
 - **University of California, Berkeley**, Visiting Student, February 2024 - May 2024
 
+## Publication
+- **好想拥有**
+
 ## Experience
 - **Xiaomi Corporation**, Backend Development Intern, June 2024 - August 2024
 - **Wuhan National Laboratory for Optoelectronics (WNLO)**, Research Assistant, September 2024 - Present
