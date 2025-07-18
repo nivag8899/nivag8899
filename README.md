@@ -9,9 +9,14 @@
 - **Huazhong University of Science and Technology**, B.Eng CS, September 2021 - July 2025
 - **University of California, Berkeley**, Visiting Student, February 2024 - May 2024
 
-## Experience
-- **Xiaomi Corporation**, FinTech Dept., SDE(Intern), June 2024 - August 2024
-- **Xiaomi Corporation**, Smart Cabin & APP Dept., SDE, July 2025 - Present
+## Professional Experience
+**Xiaomi Corporation**  
+*Backend Development Engineer Intern, Financial Information Technology Department*  
+Jun 2024 - Aug 2024  
+
+**Xiaomi Corporation**  
+*Backend Development Engineer, Smart Cabin & APP Department*  
+Jul 2025 - Present 
 <!--
 **nivag8899/nivag8899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
