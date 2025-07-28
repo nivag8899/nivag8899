@@ -14,7 +14,7 @@
 *Backend Development Engineer Intern, Financial Information Technology Department*  
 Jun 2024 - Aug 2024  
 
-**Xiaomi Corporation**  
+**Xiaomi EV Corporation**  
 *Backend Development Engineer, Smart Cabin & APP Department*  
 Jul 2025 - Present 
 <!--
