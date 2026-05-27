@@ -15,7 +15,7 @@
 Jun 2024 - Aug 2024  
 
 **Xiaomi EV Corporation**  
-*Backend Development Engineer, Smart Cabin & APP Department*  
+*Backend/AI Agent Development Engineer, Smart Cabin & APP Department*  
 Jul 2025 - Present 
 <!--
 **nivag8899/nivag8899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
